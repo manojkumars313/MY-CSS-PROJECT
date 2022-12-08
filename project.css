@@ -84,6 +84,7 @@ body {
   .strong{
     text-align: center;
     margin:20px;
+    color: #00A5EC;
   }
 
   .span{
@@ -111,6 +112,7 @@ body {
   text-decoration: none;
   position:absolute;
   right: 150px;
+  color:rgba(0, 0, 0, 0.734);
 
 }
 .parent1{
